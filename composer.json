@@ -1,0 +1,21 @@
+{
+    "name": "shinelon/trois",
+    "type": "library",
+    "require": {
+        "curl/curl": "dev-master",
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaomai",
+            "email": "1141763609@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Trois\\Library\\": "src/Trois/Library"
+        }
+    }
+}
