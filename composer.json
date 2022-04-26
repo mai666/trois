@@ -11,7 +11,7 @@
             "email": "1141763609@qq.com"
         }
     ],
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Trois\\Library\\": "src/Trois/Library"
