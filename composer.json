@@ -1,5 +1,6 @@
 {
     "name": "shinelon/trois",
+    "description": "匹配字符串中的指定标签属性",
     "type": "library",
     "require": {
         "php": ">=7.0"
